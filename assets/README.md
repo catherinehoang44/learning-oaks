@@ -22,3 +22,4 @@ When adding assets:
 - Images: `.jpg`, `.jpeg`, `.png`, `.svg`, `.gif`, `.webp`
 - Other assets: `.pdf`, `.mp4`, `.mp3` (if needed)
 
+
